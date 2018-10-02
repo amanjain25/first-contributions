@@ -32,6 +32,7 @@
 - [Arya Bhardwaj](https://github.com/ARYA-BHARDWAJ)
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
+- [Vishal Anand](https://github.com/Vishal1541)
 - [Nikki Sharpley](https://github.com/nikk15)
 - [Nikil99](https://github.com/Nikil99)
 - [Neighlyd](https://github.com/neighlyd)
